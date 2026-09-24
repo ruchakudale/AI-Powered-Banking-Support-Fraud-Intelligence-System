@@ -478,5 +478,5 @@ Potential next steps include:
 This project is intended as a portfolio/learning project. Add the repository license that matches how you plan to share or reuse the code.
 
 ## Author
+Rucha Kudale
 
-Add your name, LinkedIn, GitHub, and portfolio links here.
