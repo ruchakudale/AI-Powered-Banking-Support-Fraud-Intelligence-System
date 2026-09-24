@@ -1,0 +1,33 @@
+# Core data science
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+joblib==1.6.0
+matplotlib==3.11.2
+
+# NLP / embeddings / vector search
+sentence-transformers==6.1.0
+transformers==5.17.0
+torch==2.14.0
+torchvision==0.29.0+cpu
+faiss-cpu==1.15.1
+langchain-text-splitters==1.1.2
+
+# LangGraph orchestration
+langgraph==1.2.12
+langgraph-checkpoint-sqlite==3.1.1
+langchain-core==1.6.4
+aiosqlite==0.22.1
+typing_extensions==4.16.0
+
+# Gemini / configuration
+google-genai==2.24.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+
+# Web application
+streamlit==1.64.0
+
+# Notebook support
+ipykernel==7.3.0
